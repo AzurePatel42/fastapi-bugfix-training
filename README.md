@@ -17,6 +17,30 @@ This repository is designed to showcase **backend engineering**, **debugging mas
 
 ## 📁 Repository Structure
 
+fastapi-bugfix-training/
+│
+├── bug1-jwt/
+│   ├── broken_jwt_handler.py
+│   ├── fixed_jwt_handler.py
+│   ├── test_jwt_bug1.py
+│   └── README.md
+│
+├── bug2-db/
+│   └── README.md
+│
+├── bug3-cors/
+│   └── README.md
+│
+├── bug4-async/
+│   └── README.md
+│
+├── bug5-docker/
+│   └── README.md
+│
+└── README.md  ← (this file)
+
+Code
+
 ---
 
 ## 🎯 Purpose of This Project
@@ -39,6 +63,10 @@ The goal is to build **real-world backend instincts**.
 ## 🧪 How to Run Tests
 
 Each bug folder contains a test script:
+
+python test_jwt_bug1.py
+
+Code
 
 Tests simulate real client behavior and validate your fixes.
 

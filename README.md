@@ -97,3 +97,7 @@ This is not a tutorial — it’s a training dojo.
 **Mahesh (AzurePatel42)**  
 Backend Engineer in Training  
 FastAPI • Docker • Azure • Python • Debugging Mastery
+⭐ NOW DO THIS EXACTLY
+1. Open README.md
+Code
+notepad README.md

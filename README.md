@@ -1,3 +1,4 @@
+```
 # FastAPI Bugfix Training Dojo ⚡🐍
 
 A structured FastAPI debugging dojo featuring real-world bugs, root‑cause analysis, automated tests, and clean before/after fixes.  
@@ -97,3 +98,5 @@ This is not a tutorial — it’s a training dojo.
 **Mahesh (AzurePatel42)**  
 Backend Engineer in Training  
 FastAPI • Docker • Azure • Python • Debugging Mastery
+
+```

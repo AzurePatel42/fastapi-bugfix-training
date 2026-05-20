@@ -11,7 +11,7 @@ Each bug folder contains:
 - Verification tests  
 - Professional documentation  
 
-This repository is designed to showcase **backend engineering**, **debugging mastery**, and **problem‑solving discipline**.
+This repository is designed to showcase backend engineering, debugging mastery, and problem‑solving discipline.
 
 ---
 
@@ -39,8 +39,6 @@ fastapi-bugfix-training/
 │
 └── README.md  ← (this file)
 
-Code
-
 ---
 
 ## 🎯 Purpose of This Project
@@ -56,17 +54,15 @@ This project trains:
 - Test-driven debugging  
 - Clean documentation discipline  
 
-The goal is to build **real-world backend instincts**.
+The goal is to build real-world backend instincts.
 
 ---
 
 ## 🧪 How to Run Tests
 
-Each bug folder contains a test script:
+Run the test script inside each bug folder:
 
 python test_jwt_bug1.py
-
-Code
 
 Tests simulate real client behavior and validate your fixes.
 
@@ -92,7 +88,7 @@ Tests simulate real client behavior and validate your fixes.
 - Documentation discipline  
 - Real backend engineering workflow  
 
-This is not a tutorial — it’s a **training dojo**.
+This is not a tutorial — it’s a training dojo.
 
 ---
 
@@ -101,17 +97,3 @@ This is not a tutorial — it’s a **training dojo**.
 **Mahesh (AzurePatel42)**  
 Backend Engineer in Training  
 FastAPI • Docker • Azure • Python • Debugging Mastery
-⭐ Step 4 — Save the file
-In Notepad:
-
-Click File → Save
-
-Or press Ctrl + S
-
-⭐ Step 5 — Now Git will detect the change
-Run:
-
-Code
-git add README.md
-git commit -m "Fixed README formatting"
-git push

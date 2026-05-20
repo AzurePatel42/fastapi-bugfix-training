@@ -101,3 +101,17 @@ This is not a tutorial — it’s a **training dojo**.
 **Mahesh (AzurePatel42)**  
 Backend Engineer in Training  
 FastAPI • Docker • Azure • Python • Debugging Mastery
+⭐ Step 4 — Save the file
+In Notepad:
+
+Click File → Save
+
+Or press Ctrl + S
+
+⭐ Step 5 — Now Git will detect the change
+Run:
+
+Code
+git add README.md
+git commit -m "Fixed README formatting"
+git push
